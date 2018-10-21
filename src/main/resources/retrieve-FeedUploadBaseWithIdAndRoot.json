@@ -1,0 +1,9 @@
+{
+  "marketInformationFeedServiceProfile" : {},
+  "marketInformationFeedServiceReference" : "MIFSR78456",
+  "marketInformationFeedServiceRecord" : {},
+  "marketInformationFeedServiceRecordReference" : "MIFSRR47856",
+  "marketDataSwitchServiceConfigurationRecord" : {},
+  "marketDataSwitchOperatingSessionReference" : "MDSOSR4563",
+  "marketDataSwitchUploadInformationFeedServiceSessionReference" : "MDSUIFSSR45896"
+}
